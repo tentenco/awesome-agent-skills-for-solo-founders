@@ -15,9 +15,9 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
-> **Solo Founder 从 idea 到 launch 的 AI 工具栈。**  
-> 覆盖商业诊断、YC 方法论、GTM、产品管理、工程执行、Agent 基础设施。  
->  
+> **Solo Founder 从 idea 到 launch 的 AI 工具栈。**
+> 覆盖商业诊断、YC 方法论、GTM、产品管理、工程执行、Agent 基础设施。
+>
 > 由 **[Tenten AI](https://tentenai.com/)** 策划维护：把 AI 热点转化为可落地的业务成果。
 
 ---
@@ -170,19 +170,19 @@
 
 ## 建议使用路线
 
-1. **第 1 周：验证 idea**  
+1. **第 1 周：验证 idea**
    使用 `founder-playbook`、`dbskill`、`senior-analyst` 做用户、市场和问题验证。
 
-2. **第 2 周：写 PRD 与 MVP 规格**  
+2. **第 2 周：写 PRD 与 MVP 规格**
    使用 `vibe-coding-prompt-template`、`Product-Manager-Skills` 和 `prd-taskmaster`。
 
-3. **第 3-4 周：用 Agent 建 MVP**  
+3. **第 3-4 周：用 Agent 建 MVP**
    使用 `ai-agent-team`、`agents`、`pro-workflow`、`pilot-shell` 和 `E2B`。
 
-4. **第 5 周：验证产品和定位**  
+4. **第 5 周：验证产品和定位**
    使用 `AI-Research-SKILLs`、`Understand-Anything`、`YC-alum-ai-tools`。
 
-5. **第 6 周：上线与增长**  
+5. **第 6 周：上线与增长**
    使用 `gtm-engineer-skills`、`seo-geo-claude-skills`、`web-quality-skills`、`pinme`。
 
 ---

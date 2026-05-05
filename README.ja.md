@@ -15,9 +15,9 @@
   <strong>日本語</strong>
 </p>
 
-> **Solo Founder が idea から launch まで進むための AI スタック。**  
-> 事業診断、YC 型フレームワーク、GTM、プロダクト管理、開発実行、Agent インフラまでを整理しています。  
->  
+> **Solo Founder が idea から launch まで進むための AI スタック。**
+> 事業診断、YC 型フレームワーク、GTM、プロダクト管理、開発実行、Agent インフラまでを整理しています。
+>
 > Curated by **[Tenten AI](https://tentenai.com/)**: AI の話題を、実際の事業成果に変えるためのリポジトリです。
 
 ---
@@ -170,19 +170,19 @@
 
 ## 推奨ロードマップ
 
-1. **Week 1：idea を検証する**  
+1. **Week 1：idea を検証する**
    `founder-playbook`、`dbskill`、`senior-analyst` でユーザー、市場、課題を検証する。
 
-2. **Week 2：PRD と MVP 仕様を書く**  
+2. **Week 2：PRD と MVP 仕様を書く**
    `vibe-coding-prompt-template`、`Product-Manager-Skills`、`prd-taskmaster` を使う。
 
-3. **Week 3-4：Agent で MVP を作る**  
+3. **Week 3-4：Agent で MVP を作る**
    `ai-agent-team`、`agents`、`pro-workflow`、`pilot-shell`、`E2B` を組み合わせる。
 
-4. **Week 5：プロダクトとポジショニングを検証する**  
+4. **Week 5：プロダクトとポジショニングを検証する**
    `AI-Research-SKILLs`、`Understand-Anything`、`YC-alum-ai-tools` を使う。
 
-5. **Week 6：ローンチと成長施策**  
+5. **Week 6：ローンチと成長施策**
    `gtm-engineer-skills`、`seo-geo-claude-skills`、`web-quality-skills`、`pinme` を使う。
 
 ---

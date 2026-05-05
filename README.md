@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/AI%20Native-%E2%9C%85-active" alt="AI Native" />
   <img src="https://img.shields.io/badge/Build%20in%20Public-%E2%9C%85-shipping" alt="Build in Public" />
   <img src="https://img.shields.io/badge/Tracks-6-blue" alt="6 Tracks" />
-  <img src="https://img.shields.io/badge/Repos-38-green" alt="38 Repos" />
+  <img src="https://img.shields.io/badge/Repos-81-green" alt="81 Repos" />
 </p>
 
 > **The Solo Founder's From Idea to Launch Playbook**  
@@ -43,7 +43,7 @@
 ## Why You Need These Skills?
 
 - ✅ **Comprehensive business diagnostics** — from idea to execution  
-- ✅ **38 curated skills, playbooks, and agent-platform repos**
+- ✅ **81 curated skills, playbooks, and agent-platform repos**
 - ✅ **AI-native startup methodologies**  
 - ✅ **Save 1,000+ hours of research**  
 - ✅ **Expert-level quality, automated execution**
@@ -61,7 +61,7 @@
 
 ## The 6 Tracks
 
-> Source merge note: this update reviewed the [Tenten founder skill repo trend list](https://s4.tenten.co/tenten-founder-skill-repo.txt), fixed broken repository owners in the original README, and filtered the broader AI-agent list for solo-founder utility.
+> Curation note: this list merges trending Claude Skill and AI-agent repositories into a solo-founder operating stack, while filtering out narrow or off-topic projects.
 
 ### Tier 1: Business Diagnostics Core *(Have an idea / need validation)*
 
@@ -72,6 +72,12 @@
 | 3 | **senior-analyst** | Structured business analysis, market modeling, and investment diligence | ⭐ 53 | [rrred0324/senior-analyst](https://github.com/rrred0324/senior-analyst) |
 | 4 | **scientific-agent-skills** | Ready-to-use skills for research, analysis, finance, and writing | ⭐ 20.1K | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | 5 | **AI-Research-SKILLs** | Research and engineering skills for model-assisted deep work | ⭐ 7.9K | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) |
+| 6 | **notebooklm-py** | NotebookLM API, CLI, and agentic research workflow | ⭐ 12.6K | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) |
+| 7 | **Understand-Anything** | Turn code and knowledge bases into interactive knowledge graphs | ⭐ 12.3K | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) |
+| 8 | **NanoResearch** | Autonomous AI research assistant for deep technical discovery | ⭐ 784 | [OpenRaiser/NanoResearch](https://github.com/OpenRaiser/NanoResearch) |
+| 9 | **AI-Search-Hub** | Multi-platform AI search for trend, market, and daily research workflows | ⭐ 1.1K | [minsight-ai-info/AI-Search-Hub](https://github.com/minsight-ai-info/AI-Search-Hub) |
+| 10 | **Agent-Reach** | Internet and social research CLI for Reddit, X, YouTube, GitHub, and more | ⭐ 18.8K | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
+| 11 | **google-maps-scraper** | Local market, lead, and competitor data extraction from Google Maps | ⭐ 3.9K | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) |
 
 ### Tier 2: YC / Startup Accelerators *(Validation & Growth)*
 
@@ -102,6 +108,7 @@
 | 4 | **web-quality-skills** | Lighthouse and Core Web Vitals optimization skills | ⭐ 1.9K | [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) |
 | 5 | **md2wechat-skill** | Markdown-to-WeChat publishing workflow for content distribution | ⭐ 2K | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) |
 | 6 | **AK-Threads-booster** | Threads engagement booster — content growth & distribution | ⭐ 192 | [akseolabs-seo/AK-Threads-booster](https://github.com/akseolabs-seo/AK-Threads-booster) |
+| 7 | **pinme** | One-command frontend deployment with Claude Code Skills support | ⭐ 3.2K | [glitternetwork/pinme](https://github.com/glitternetwork/pinme) |
 
 ### Tier 5: Team / Role Playbooks *(1 Person = 1 Team)*
 
@@ -114,6 +121,16 @@
 | 5 | **agents** | Claude Code automation and multi-agent orchestration | ⭐ 34.8K | [wshobson/agents](https://github.com/wshobson/agents) |
 | 6 | **pro-workflow** | Self-correcting memory, context engineering, and parallel worktrees | ⭐ 2.1K | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) |
 | 7 | **prompt-master** | Claude skill for writing accurate prompts for any AI tool | ⭐ 7.2K | [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) |
+| 8 | **planning-with-files** | Persistent markdown planning skill for long-running agent work | ⭐ 20.4K | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) |
+| 9 | **pilot-shell** | Spec-driven planning, enforced TDD, memory, and quality workflow | ⭐ 1.7K | [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) |
+| 10 | **claude-skills-dev** | 66 specialized full-stack developer skills for Claude Code | ⭐ 8.8K | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) |
+| 11 | **claude-code-cli-skills** | Full-stack dev skills for Cloudflare, React, Tailwind, and AI integrations | ⭐ 765 | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) |
+| 12 | **terraform-skill** | Terraform and OpenTofu skill for testing, modules, CI/CD, and production patterns | ⭐ 1.8K | [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) |
+| 13 | **pg-aiguide** | Postgres MCP server and Claude plugin for better database code | ⭐ 1.7K | [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) |
+| 14 | **aws-agent-skills** | AWS skills for agents and cloud workflows | ⭐ 1.1K | [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) |
+| 15 | **ios-simulator-skill** | iOS simulator skill for building, running, and interacting with apps | ⭐ 943 | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) |
+| 16 | **ralph-claude-code** | Autonomous Claude Code development loop with intelligent exit detection | ⭐ 9K | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) |
+| 17 | **nocobase** | AI plus no-code platform for building business systems quickly | ⭐ 22.3K | [nocobase/nocobase](https://github.com/nocobase/nocobase) |
 
 ### Tier 6: Skill Discovery / Agent Infrastructure *(Extend the Stack)*
 
@@ -130,6 +147,32 @@
 | 9 | **cua** | Infrastructure for computer-use agents across desktop environments | ⭐ 15.7K | [trycua/cua](https://github.com/trycua/cua) |
 | 10 | **zcf** | Zero-config code flow for Claude Code and Codex | ⭐ 6K | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) |
 | 11 | **presenton** | Open-source AI presentation generator and API | ⭐ 4.9K | [presenton/presenton](https://github.com/presenton/presenton) |
+| 12 | **claude-mem** | Claude Code memory plugin that captures, compresses, and reinjects context | ⭐ 72.4K | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) |
+| 13 | **oh-my-openagent** | Lightweight agent harness for local and CLI-based agent work | ⭐ 55.9K | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) |
+| 14 | **nanoclaw** | Containerized OpenClaw alternative with messaging, memory, and scheduled jobs | ⭐ 28.6K | [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) |
+| 15 | **claude-skills** | 232+ Claude Code skills and agent plugins across product, engineering, and advisory workflows | ⭐ 13.8K | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) |
+| 16 | **memU** | Memory layer for 24/7 proactive agents | ⭐ 13.5K | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) |
+| 17 | **awesome-llm-skills** | Curated LLM and AI-agent skills for Claude Code, Codex, Gemini CLI, and custom agents | ⭐ 1.2K | [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) |
+| 18 | **claude-reflect** | Self-learning preference and correction capture for CLAUDE.md and AGENTS.md | ⭐ 1K | [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) |
+| 19 | **skills** | Agent skills compatible with Claude Code and agentskills.io-compatible agents | ⭐ 850 | [wondelai/skills](https://github.com/wondelai/skills) |
+| 20 | **coderunner** | Local sandbox for AI agents | ⭐ 822 | [instavm/coderunner](https://github.com/instavm/coderunner) |
+| 21 | **octogent** | Orchestration dashboard for Claude Code context and automation | ⭐ 816 | [hesamsheikh/octogent](https://github.com/hesamsheikh/octogent) |
+| 22 | **babysitter** | Deterministic workflow management for agentic workforces | ⭐ 750 | [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) |
+| 23 | **hermes-agent** | Personal AI agent that grows with the user | ⭐ 133.9K | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
+| 24 | **learn-claude-code** | Claude Code-like agent harness tutorial built from shell primitives | ⭐ 58.2K | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) |
+| 25 | **cherry-studio** | AI productivity studio with smart chat, autonomous agents, and 300+ assistants | ⭐ 45K | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) |
+| 26 | **CowAgent** | Multi-channel AI assistant with planning, skills, memory, and knowledge base | ⭐ 44K | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) |
+| 27 | **nanobot** | Ultra-lightweight personal AI agent | ⭐ 41.7K | [HKUDS/nanobot](https://github.com/HKUDS/nanobot) |
+| 28 | **openclaude** | Portable AI agent tooling that runs anywhere and uses external tools | ⭐ 25.9K | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) |
+| 29 | **AionUi** | Local cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, and more | ⭐ 23.8K | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) |
+| 30 | **OpenCLI** | Universal CLI hub and AI-native runtime for websites, apps, and local binaries | ⭐ 18.8K | [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) |
+| 31 | **leon** | Open-source personal assistant | ⭐ 17.2K | [leon-ai/leon](https://github.com/leon-ai/leon) |
+| 32 | **OpenSandbox** | Secure, fast, extensible sandbox runtime for AI agents | ⭐ 10.4K | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) |
+| 33 | **GenericAgent** | Self-evolving agent with skill-tree growth and full-system control | ⭐ 9.2K | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) |
+| 34 | **evolver** | Self-evolving engine for AI agents with auditable evolution primitives | ⭐ 7.2K | [EvoMap/evolver](https://github.com/EvoMap/evolver) |
+| 35 | **intentkit** | Self-hosted cloud agent cluster for collaborative AI agents | ⭐ 6.5K | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) |
+| 36 | **Bindu** | Turn AI agents into observable, composable microservices | ⭐ 5.1K | [GetBindu/Bindu](https://github.com/GetBindu/Bindu) |
+| 37 | **holaOS** | Open agent computer for digital work | ⭐ 4.8K | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) |
 
 ---
 
@@ -205,7 +248,6 @@ WEEK 1                    WEEK 2                    WEEK 3-4                  WE
 
 - 📌 **Full list + Hub:** [agentskillshub.top/best/business-diagnosis/](https://agentskillshub.top/best/business-diagnosis/)
 - 📖 **Details (9 min read):** [agentskillshub.top/blog/skill-stack-solo-saas-2026/](https://agentskillshub.top/blog/skill-stack-solo-saas-2026/)
-- 🔎 **Merged trend source:** [s4.tenten.co/tenten-founder-skill-repo.txt](https://s4.tenten.co/tenten-founder-skill-repo.txt)
 - 🌐 **Tenten AI:** [tentenai.com](https://tentenai.com/)
 
 > **Stay updated, stay ahead** 🚀

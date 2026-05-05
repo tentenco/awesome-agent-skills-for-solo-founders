@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Solo%20Founder-%E2%9C%85-ready" alt="Solo Founder" />
   <img src="https://img.shields.io/badge/AI%20Native-%E2%9C%85-active" alt="AI Native" />
   <img src="https://img.shields.io/badge/Build%20in%20Public-%E2%9C%85-shipping" alt="Build in Public" />
-  <img src="https://img.shields.io/badge/Tracks-5-blue" alt="5 Tracks" />
-  <img src="https://img.shields.io/badge/Skills-19-green" alt="19 Skills" />
+  <img src="https://img.shields.io/badge/Tracks-6-blue" alt="6 Tracks" />
+  <img src="https://img.shields.io/badge/Repos-38-green" alt="38 Repos" />
 </p>
 
 > **The Solo Founder's From Idea to Launch Playbook**  
@@ -19,12 +19,13 @@
 
 - [Why You Need These Skills](#why-you-need-these-skills)
 - [Who It's For](#who-its-for)
-- [The 5 Tracks](#the-5-tracks)
+- [The 6 Tracks](#the-6-tracks)
   - [Tier 1: Business Diagnostics Core](#tier-1-business-diagnostics-core--have-an-idea--need-validation)
   - [Tier 2: YC / Startup Accelerators](#tier-2-yc--startup-accelerators--validation--growth)
   - [Tier 3: Top AI People IP](#tier-3-top-ai-people-ip--learn-from-the-best)
   - [Tier 4: GTM / Marketing / Launch](#tier-4-gtm--marketing--launch--go-to-market)
   - [Tier 5: Team / Role Playbooks](#tier-5-team--role-playbooks--1-person--1-team)
+  - [Tier 6: Skill Discovery / Agent Infrastructure](#tier-6-skill-discovery--agent-infrastructure--extend-the-stack)
 - [6-Week Solo SaaS Timeline](#-6-week-solo-saas-timeline-from-0-to-1)
 - [Core Value](#core-value)
 - [Red Flags (Beware)](#red-flags-beware)
@@ -38,7 +39,7 @@
 ## Why You Need These Skills?
 
 - ✅ **Comprehensive business diagnostics** — from idea to execution  
-- ✅ **19 tools covering entire startup lifecycle**  
+- ✅ **38 curated skills, playbooks, and agent-platform repos**
 - ✅ **AI-native startup methodologies**  
 - ✅ **Save 1,000+ hours of research**  
 - ✅ **Expert-level quality, automated execution**
@@ -54,16 +55,19 @@
 
 ---
 
-## The 5 Tracks
+## The 6 Tracks
+
+> Source merge note: this update reviewed the [Tenten founder skill repo trend list](https://s4.tenten.co/tenten-founder-skill-repo.txt), fixed broken repository owners in the original README, and filtered the broader AI-agent list for solo-founder utility.
 
 ### Tier 1: Business Diagnostics Core *(Have an idea / need validation)*
 
 | # | Skill | Description | Stars | Repo |
 |---|-------|-------------|-------|------|
 | 1 | **dbskill** | The ultimate prompt library for business diagnostics & market analysis | ⭐ 4.1K | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) |
-| 2 | **founder-playbook** | 14 essential frameworks for startup strategy & validation | ⭐ 145 | [getagentsea/founder-playbook](https://github.com/getagentsea/founder-playbook) |
-| 3 | **senior-analyst** | Deep market research & investment thesis analysis agent | ⭐ 53 | [rrre0324/senior-analyst](https://github.com/rrre0324/senior-analyst) |
-| 4 | **awesome-claude-skills** | Ex-McKinsey level business model & thinking collection | ⭐ 261 | [fleuryrtan/awesome-claude-skills](https://github.com/fleuryrtan/awesome-claude-skills) |
+| 2 | **founder-playbook** | 14 proven business books distilled into founder skills | ⭐ 156 | [getagentseal/founder-playbook](https://github.com/getagentseal/founder-playbook) |
+| 3 | **senior-analyst** | Structured business analysis, market modeling, and investment diligence | ⭐ 53 | [rrred0324/senior-analyst](https://github.com/rrred0324/senior-analyst) |
+| 4 | **scientific-agent-skills** | Ready-to-use skills for research, analysis, finance, and writing | ⭐ 20.1K | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
+| 5 | **AI-Research-SKILLs** | Research and engineering skills for model-assisted deep work | ⭐ 7.9K | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) |
 
 ### Tier 2: YC / Startup Accelerators *(Validation & Growth)*
 
@@ -82,6 +86,7 @@
 | 2 | **qiaomu-design-advisor** | Jobs mindset + Rams philosophy — product & design thinking | ⭐ 232 | [joeseesun/qiaomu-design-advisor](https://github.com/joeseesun/qiaomu-design-advisor) |
 | 3 | **yupi-skill** | Yupi skills library — growth & productivity | ⭐ 166 | [liyupi/yupi-skill](https://github.com/liyupi/yupi-skill) |
 | 4 | **liyupi/ai-guide** | The most comprehensive AI guide + Vibe coding | ⭐ 12.8K | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) |
+| 5 | **baoyu-skills** | Baoyu-style agent skill collection for applied AI workflows | ⭐ 17.1K | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) |
 
 ### Tier 4: GTM / Marketing / Launch *(Go-to-Market)*
 
@@ -89,16 +94,38 @@
 |---|-------|-------------|-------|------|
 | 1 | **gtm-engineer-skills** | AEO + GEO optimization — AI marketing toolkit | ⭐ 909 | [onvoyage-ai/gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) |
 | 2 | **goose-skills** | GTM skills library — marketing tools collection | ⭐ 644 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) |
-| 3 | **gingirls-launch** | Product Hunt 30x #1 winner tactics — launch strategy playbook | ⭐ 167 | [Gingirls/gingirls-launch](https://github.com/Gingirls/gingirls-launch) |
-| 4 | **AK-Threads-booster** | Threads engagement booster — content growth & distribution | ⭐ 192 | [akseolabs-seo/AK-Threads-booster](https://github.com/akseolabs-seo/AK-Threads-booster) |
+| 3 | **seo-geo-claude-skills** | SEO and GEO skills for keyword research, content, audits, and rank tracking | ⭐ 1.5K | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) |
+| 4 | **web-quality-skills** | Lighthouse and Core Web Vitals optimization skills | ⭐ 1.9K | [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) |
+| 5 | **md2wechat-skill** | Markdown-to-WeChat publishing workflow for content distribution | ⭐ 2K | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) |
+| 6 | **AK-Threads-booster** | Threads engagement booster — content growth & distribution | ⭐ 192 | [akseolabs-seo/AK-Threads-booster](https://github.com/akseolabs-seo/AK-Threads-booster) |
 
 ### Tier 5: Team / Role Playbooks *(1 Person = 1 Team)*
 
 | # | Skill | Description | Stars | Repo |
 |---|-------|-------------|-------|------|
-| 1 | **vibe-coding-prompt-template** | PRD / Tech Design / MVP template — 2026 best practice collection | ⭐ 2.2K | [Kha2f/vibe-coding-prompt-template](https://github.com/Kha2f/vibe-coding-prompt-template) |
-| 2 | **ai-agent-team** | 24/7 PM + Engineer + Test + DevOps + TL — 6 AI agents = 1 team | ⭐ 287 | [peterfai/ai-agent-team](https://github.com/peterfai/ai-agent-team) |
+| 1 | **vibe-coding-prompt-template** | PRD / Tech Design / MVP template — 2026 best practice collection | ⭐ 2.3K | [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) |
+| 2 | **ai-agent-team** | 24/7 PM + Engineer + Test + DevOps + TL — 6 AI agents = 1 team | ⭐ 345 | [peterfei/ai-agent-team](https://github.com/peterfei/ai-agent-team) |
 | 3 | **prd-taskmaster** | PRD → Taskmaster workflow — AI task automation | ⭐ 198 | [anombyte93/prd-taskmaster](https://github.com/anombyte93/prd-taskmaster) |
+| 4 | **Product-Manager-Skills** | Product management skill framework for Claude Code, Codex, and agents | ⭐ 4K | [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) |
+| 5 | **agents** | Claude Code automation and multi-agent orchestration | ⭐ 34.8K | [wshobson/agents](https://github.com/wshobson/agents) |
+| 6 | **pro-workflow** | Self-correcting memory, context engineering, and parallel worktrees | ⭐ 2.1K | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) |
+| 7 | **prompt-master** | Claude skill for writing accurate prompts for any AI tool | ⭐ 7.2K | [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) |
+
+### Tier 6: Skill Discovery / Agent Infrastructure *(Extend the Stack)*
+
+| # | Repo | Description | Stars | Link |
+|---|------|-------------|-------|------|
+| 1 | **awesome-agent-skills** | 1000+ agent skills compatible with Claude Code, Codex, Gemini CLI, Cursor, and more | ⭐ 20.3K | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) |
+| 2 | **awesome-claude-skills** | Curated Claude Skills, resources, and workflow customization tools | ⭐ 12.2K | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) |
+| 3 | **buildwithclaude** | Hub for Claude Skills, agents, commands, hooks, plugins, and marketplace collections | ⭐ 2.9K | [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) |
+| 4 | **Skill_Seekers** | Converts docs, GitHub repos, and PDFs into Claude AI skills | ⭐ 13.3K | [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) |
+| 5 | **awesome-claude-plugins** | Curated plugin list for commands, agents, hooks, and MCP servers | ⭐ 1.6K | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) |
+| 6 | **activepieces** | AI workflow automation, agents, and MCP server ecosystem | ⭐ 22.1K | [activepieces/activepieces](https://github.com/activepieces/activepieces) |
+| 7 | **CopilotKit** | Frontend stack for agents and generative UI | ⭐ 30.6K | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) |
+| 8 | **E2B** | Secure environments with real-world tools for enterprise-grade agents | ⭐ 12.1K | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) |
+| 9 | **cua** | Infrastructure for computer-use agents across desktop environments | ⭐ 15.7K | [trycua/cua](https://github.com/trycua/cua) |
+| 10 | **zcf** | Zero-config code flow for Claude Code and Codex | ⭐ 6K | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) |
+| 11 | **presenton** | Open-source AI presentation generator and API | ⭐ 4.9K | [presenton/presenton](https://github.com/presenton/presenton) |
 
 ---
 
@@ -118,11 +145,11 @@ WEEK 1                    WEEK 2                    WEEK 3-4                  WE
 │ Tools:          │       │ Tools:          │       │ Tools:          │       │ Tools:          │       │ Tools:          │
 │ • founder-      │       │ • vibe-coding-  │       │ • ai-agent-team │       │ • dbskill       │       │ • gtm-engineer- │
 │   playbook      │       │   prompt-template│      │ • the-startup   │       │ • senior-analyst│       │   skills        │
-│ • awesome-      │       │ • PRD → MVP     │       │ • vibe-coding   │       │ • YC-alum-ai-   │       │ • AK-Threads-   │
-│   claude-skills │       │   spec ready    │       │   prompt-template│     │   tools         │       │   booster       │
+│ • scientific-   │       │ • PRD → MVP     │       │ • vibe-coding   │       │ • YC-alum-ai-   │       │ • AK-Threads-   │
+│   agent-skills  │       │   spec ready    │       │   prompt-template│     │   tools         │       │   booster       │
 │                 │       │                 │       │                 │       │ • qiaomu-design-│       │ • goose-skills  │
-│                 │       │                 │       │                 │       │   advisor       │       │ • gingirls-     │
-│                 │       │                 │       │                 │       │                 │       │   launch        │
+│                 │       │                 │       │                 │       │   advisor       │       │ • seo-geo-      │
+│                 │       │                 │       │                 │       │                 │       │   skills        │
 └─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
 ```
 
@@ -174,6 +201,7 @@ WEEK 1                    WEEK 2                    WEEK 3-4                  WE
 
 - 📌 **Full list + Hub:** [agentskillshub.top/best/business-diagnosis/](https://agentskillshub.top/best/business-diagnosis/)
 - 📖 **Details (9 min read):** [agentskillshub.top/blog/skill-stack-solo-saas-2026/](https://agentskillshub.top/blog/skill-stack-solo-saas-2026/)
+- 🔎 **Merged trend source:** [s4.tenten.co/tenten-founder-skill-repo.txt](https://s4.tenten.co/tenten-founder-skill-repo.txt)
 - 🌐 **Tenten AI:** [tentenai.com](https://tentenai.com/)
 
 > **Stay updated, stay ahead** 🚀
@@ -189,7 +217,7 @@ Found an awesome AI skill for solo founders? Open a PR! We welcome:
 - Additional resources and playbooks
 - Success stories and case studies
 
-Please ensure your contribution fits one of the 5 tiers and includes a valid GitHub repository link.
+Please ensure your contribution fits one of the 6 tiers and includes a valid GitHub repository link.
 
 ---
 

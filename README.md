@@ -13,6 +13,10 @@
 >  
 > Curated with 💚 by **[Tenten AI](https://tentenai.com/)** — Turning AI hype into business outcomes.
 
+<p align="center">
+  <img src="./assets/en-image.png" alt="Awesome Agent Skills for Solo Founders overview" width="900" />
+</p>
+
 ---
 
 ## 📋 Table of Contents

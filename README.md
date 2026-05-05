@@ -8,19 +8,23 @@
   <img src="https://img.shields.io/badge/Repos-81-green" alt="81 Repos" />
 </p>
 
+<p align="center">
+  <strong>English</strong> |
+  <a href="./README.zh-CN.md">简体中文</a> |
+  <a href="./README.zh-TW.md">繁體中文（台灣）</a> |
+  <a href="./README.ja.md">日本語</a>
+</p>
+
 > **The Solo Founder's From Idea to Launch Playbook**  
 > Business diagnostics, YC frameworks, GTM, PM playbooks — your all-in-one AI startup toolkit 🚀  
 >  
 > Curated with 💚 by **[Tenten AI](https://tentenai.com/)** — Turning AI hype into business outcomes.
 
-<p align="center">
-  <img src="./assets/en-image.png" alt="Awesome Agent Skills for Solo Founders overview" width="900" />
-</p>
-
 ---
 
 ## 📋 Table of Contents
 
+- [Languages](#languages)
 - [Why You Need These Skills](#why-you-need-these-skills)
 - [Who It's For](#who-its-for)
 - [The 6 Tracks](#the-6-tracks)
@@ -37,6 +41,19 @@
 - [Success Factors](#success-factors)
 - [Resources](#resources)
 - [Connect with Tenten AI](#connect-with-tenten-ai)
+
+---
+
+## Languages
+
+English is the canonical version of this repository. The localized editions mirror the same curation model and are maintained for founders who prefer to evaluate the stack in Simplified Chinese, Traditional Chinese for Taiwan, or Japanese.
+
+| Language | File | Status |
+|----------|------|--------|
+| English | [README.md](./README.md) | Main |
+| 简体中文 | [README.zh-CN.md](./README.zh-CN.md) | Localized |
+| 繁體中文（台灣） | [README.zh-TW.md](./README.zh-TW.md) | Localized |
+| 日本語 | [README.ja.md](./README.ja.md) | Localized |
 
 ---
 

@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "lucide-react": "^1.14.0",
     "next": "latest",
     "postcss": "8.5.10",
     "react": "latest",

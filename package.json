@@ -1,0 +1,19 @@
+{
+  "name": "awesome-agent-skills-for-solo-founders",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "postcss": "8.5.10",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}

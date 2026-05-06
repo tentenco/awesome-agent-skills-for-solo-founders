@@ -15,6 +15,10 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
+<p align="center">
+  <a href="https://tenten-skills-knowledge-base.vercel.app"><strong>Live Knowledge Base on Vercel</strong></a>
+</p>
+
 > **The Solo Founder's From Idea to Launch Playbook**  
 > Business diagnostics, YC frameworks, GTM, PM playbooks — your all-in-one AI startup toolkit 🚀  
 >  

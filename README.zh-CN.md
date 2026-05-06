@@ -15,6 +15,10 @@
   <a href="./README.ja.md">日本語</a>
 </p>
 
+<p align="center">
+  <a href="https://tenten-skills-knowledge-base.vercel.app"><strong>Vercel 在线知识库</strong></a>
+</p>
+
 > **Solo Founder 从 idea 到 launch 的 AI 工具栈。**
 > 覆盖商业诊断、YC 方法论、GTM、产品管理、工程执行、Agent 基础设施。
 >

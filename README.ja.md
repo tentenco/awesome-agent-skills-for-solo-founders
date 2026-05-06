@@ -15,6 +15,10 @@
   <strong>日本語</strong>
 </p>
 
+<p align="center">
+  <a href="https://tenten-skills-knowledge-base.vercel.app"><strong>Vercel Live Knowledge Base</strong></a>
+</p>
+
 > **Solo Founder が idea から launch まで進むための AI スタック。**
 > 事業診断、YC 型フレームワーク、GTM、プロダクト管理、開発実行、Agent インフラまでを整理しています。
 >

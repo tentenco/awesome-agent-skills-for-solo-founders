@@ -270,6 +270,7 @@ WEEK 1                    WEEK 2                    WEEK 3-4                  WE
 - 📌 **Full list + Hub:** [agentskillshub.top/best/business-diagnosis/](https://agentskillshub.top/best/business-diagnosis/)
 - 📖 **Details (9 min read):** [agentskillshub.top/blog/skill-stack-solo-saas-2026/](https://agentskillshub.top/blog/skill-stack-solo-saas-2026/)
 - 🌐 **Tenten AI:** [tentenai.com](https://tentenai.com/)
+- 🧰 **Skill library:** [One Person Company](https://onepersoncompany.com/) — 317 free skill guides for solo founders
 
 > **Stay updated, stay ahead** 🚀
 

@@ -127,6 +127,7 @@
 | 15 | **ios-simulator-skill** | 面向 iOS app 构建、运行与交互的 simulator skill | ⭐ 943 | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) |
 | 16 | **ralph-claude-code** | 带智能退出检测的 Claude Code 自主开发循环 | ⭐ 9K | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) |
 | 17 | **nocobase** | AI + no-code 平台，快速搭建业务系统 | ⭐ 22.3K | [nocobase/nocobase](https://github.com/nocobase/nocobase) |
+| 18 | **SPECTER** | 基于已知事实、明确边界和关系差异，准备谈判方案与难沟通情境的回复 | ⭐ 0 | [YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter) |
 
 ### Tier 6：技能发现 / Agent 基础设施
 

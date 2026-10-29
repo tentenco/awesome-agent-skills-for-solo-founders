@@ -152,6 +152,7 @@ English is the canonical version of this repository. The localized editions mirr
 | 15 | **ios-simulator-skill** | iOS simulator skill for building, running, and interacting with apps | ⭐ 943 | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) |
 | 16 | **ralph-claude-code** | Autonomous Claude Code development loop with intelligent exit detection | ⭐ 9K | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) |
 | 17 | **nocobase** | AI plus no-code platform for building business systems quickly | ⭐ 22.3K | [nocobase/nocobase](https://github.com/nocobase/nocobase) |
+| 18 | **SPECTER** | Negotiation prep and difficult-conversation drafts with evidence, boundaries, and relationship-aware tone | ⭐ 0 | [YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter) |
 
 ### Tier 6: Skill Discovery / Agent Infrastructure *(Extend the Stack)*
 

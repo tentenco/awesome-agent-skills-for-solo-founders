@@ -127,6 +127,7 @@
 | 15 | **ios-simulator-skill** | iOS app のビルド、実行、操作を支援する simulator skill | ⭐ 943 | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) |
 | 16 | **ralph-claude-code** | intelligent exit detection 付きの Claude Code 自律開発ループ | ⭐ 9K | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) |
 | 17 | **nocobase** | AI + no-code で業務システムを素早く構築するプラットフォーム | ⭐ 22.3K | [nocobase/nocobase](https://github.com/nocobase/nocobase) |
+| 18 | **SPECTER** | 確認できた事実、明確な境界、相手との関係に基づく交渉準備と難しい会話の文案 | ⭐ 0 | [YannisKiefer/harvey-specter](https://github.com/YannisKiefer/harvey-specter) |
 
 ### Tier 6：Skill Discovery / Agent Infrastructure
 
